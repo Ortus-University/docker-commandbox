@@ -3,7 +3,7 @@ Official CommandBox Dockerfiles
 
 [![Build Status](https://travis-ci.org/Ortus-Solutions/docker-commandbox.svg)](https://travis-ci.org/Ortus-Solutions/docker-commandbox) [![Docker Image Pulls Badge](https://badgen.net/docker/pulls/ortussolutions/commandbox)](https://hub.docker.com/r/ortussolutions/commandbox/)
 
-This is the repository for official Dockerfiles for Commandbox images
+This is the repository for official Dockerfiles for Commandbox images. This image is for development purposes. do not use for production. 
 
 
 
